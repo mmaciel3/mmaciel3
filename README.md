@@ -42,7 +42,7 @@ Being fully-remote is a hard requirement.
 
 Bonus points if the payment is in USD, EUR or GBP.
 
-#### Roles
+### Roles
 I am interested in any of the roles below:
 * Engineering manager
 * Team lead / tech lead
