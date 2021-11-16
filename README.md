@@ -1,16 +1,39 @@
 ### Hi there 👋
 
-<!--
-**mmaciel3/mmaciel3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Matheus Maciel Soares. Nice to meet you!
+I've been working with software development since 2012 and have a BsC in Computer Science.
 
-Here are some ideas to get you started:
+From 2012 to 2021, I've worked at large companies (SAP and ADP). Most recently, on mid 2021, I've decided to try something new and got into the startup world, and I'm currently working at a fintech called [Argyle](https://argyle.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience with a variety of programming languages and frameworks. Most of my work was done with the following:
+
+**Programming languages**
+- Java
+- Javascript (Node.JS)
+- Python
+
+**Frameworks**
+* SpringBoot
+* Express
+* Serverless (with AWS Lambda)
+* Django
+
+**Cloud providers**
+- AWS
+- Google Cloud Platform
+
+**Databases**
+- Oracle
+- Postgres
+- MySQL
+- MongoDB
+
+**Messaging**
+- Apache Kafka
+- RabbitMQ
+
+Although I'm primarily a back end developer, I also have some front end experience with JQuery, Angular and React.
+
+For more detailed information, you can checkout my LinkedIn profile: https://www.linkedin.com/in/mmsoares-/
+
+You can also reach me at my personal email: m.maciel3@hotmail.com.
