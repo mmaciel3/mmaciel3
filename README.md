@@ -16,6 +16,7 @@ I have experience with a variety of programming languages and frameworks. Most o
 
 **Frameworks**
 * SpringBoot
+* Micronaut
 * Express
 * Serverless (with AWS Lambda)
 * Django
